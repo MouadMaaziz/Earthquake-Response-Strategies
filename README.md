@@ -19,8 +19,12 @@ I also extend my sincere gratitude to Umut Deniz Kaya, for entrusting me with th
 ## GLOBAL WTF USING WEIGHTS:
 ![global_WTF_using_weights](https://github.com/MouadMaaziz/Earthquake-Response-Strategies/assets/51351250/203f7d3c-9641-4c84-8d0d-58e70e7ac51b)
 
+## Stats:
+![Stats](https://github.com/MouadMaaziz/Earthquake-Response-Strategies/assets/51351250/5e10ac53-a1f2-40e9-bc4f-6cfa09df264c)
+
 ## DISTANCES OF WTF TO THE CHOSEN WTF (NO WEIGHTS):
 ![distances_WTF_To_global_WTF](https://github.com/MouadMaaziz/Earthquake-Response-Strategies/assets/51351250/f520c858-acbf-4e04-872e-818ac52636b0)
 
 ## BONUS PHOTO: MY DESK:
 ![meeting_kadikoy_proj](https://github.com/MouadMaaziz/Earthquake-Response-Strategies/assets/51351250/a225bfb3-1cf4-4109-970b-d82e39b9dbd9)
+
